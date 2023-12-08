@@ -1,64 +1,92 @@
 [
   {
     "title": "10 Reasons Why Tailwind CSS is the Best CSS Framework for Your Project",
-    "tags": ["tailwind", "css", "frameworks"],
-    "coverImage": "https://shameem.b-cdn.net/wp-content/uploads/2023/03/why-tailwindcss-is-best.png",
+    "tags": [
+      "tailwind",
+      "css",
+      "frameworks"
+    ],
+    "coverImage": "https://media.discordapp.net/attachments/1180809368762060920/1182654754107695195/Blog_Image_3.png?ex=65857c12&is=65730712&hm=5ca78aa266d93191cbeab8b3bfbcf824a45d58a4482752cdd09f08d0470a43d3&=&format=webp&quality=lossless",
     "intro": "If you’re a front-end developer, you’ve probably heard of Tailwind CSS. It’s a popular CSS framework that’s gaining more and more popularity in the web development community. But why should you consider using Tailwind CSS for your next project?",
     "link": "https://shameem.me/10-reasons-why-tailwindcss-is-the-best-css-framework/",
     "date": "27.03.2023"
   },
   {
     "title": "TypeScript vs. JSDoc JavaScript for static type checking",
-    "tags": ["typescript"],
-    "coverImage": "https://www.pausly.app/images/blog/full-type-support-with-plain-javascript.png",
+    "tags": [
+      "typescript"
+    ],
+    "coverImage": "https://media.discordapp.net/attachments/1180809368762060920/1182654754481000518/Blog_Image_2.png?ex=65857c12&is=65730712&hm=c6b9d31a76a30d81723db6d07a93f1f3c27d1c8aeb9c235e8f10aecc49250b37&=&format=webp&quality=lossless",
     "intro": "There’s a debate to be had about whether using JavaScript or TypeScript leads to better outcomes when building a project. The advent of using JSDoc annotations to type a JavaScript codebase introduces a new dynamic to this discussion.",
     "link": "https://blog.logrocket.com/typescript-vs-jsdoc-javascript/",
     "date": "19.10.2021"
   },
   {
     "title": "Past, Present, and Future of React State Management",
-    "tags": ["react", "state management"],
-    "coverImage": "https://www.bacancytechnology.com/blog/wp-content/uploads/2023/02/React-State-Management-Libraries.webp",
+    "tags": [
+      "react",
+      "state management"
+    ],
+    "coverImage": "https://media.discordapp.net/attachments/1180809368762060920/1182654754762014760/Blog_Image_1.png?ex=65857c12&is=65730712&hm=a81cff47aded816dea57e6821c42152d5538e68d211a60fe7550c5ea3eb78207&=&format=webp&quality=lossless",
     "intro": "React was introduced in May 2013. Its paradigm shift was that your UI was a function of your state. Given some component state, React can determine what your component will look like. React is built upon the idea of state. However, state has long been one of the most difficult parts of building a React application.",
     "link": "https://leerob.io/blog/react-state-management",
     "date": "02.02.2021"
   },
   {
     "title": "Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)",
-    "tags": ["css", "grid", "video"],
-    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/CSS_Grid_Changes_Everything_%28About_Web_Layouts%29_Morten_Rand-Hendriksen_%2835015905460%29.jpg",
+    "tags": [
+      "css",
+      "grid",
+      "video"
+    ],
+    "coverImage": "https://media.discordapp.net/attachments/1180809368762060920/1182654755030454392/Blog_Image.png?ex=65857c12&is=65730712&hm=3081e183400fdcab5c16c409faaceb27a8846016299633866b27797eb14b5d88&=&format=webp&quality=lossless",
     "intro": "CSS Grid is now live in all major browsers, and with it everything we know about web layouts changes!",
     "link": "https://www.youtube.com/watch?v=txZq7Laz7_4",
     "date": "30.06.2017"
   },
   {
     "title": "Rich Harris - Rethinking reactivity",
-    "tags": ["svelte", "frameworks", "video"],
-    "coverImage": "https://pbs.twimg.com/media/D42nnJVWsAUYDT9.jpg:large",
+    "tags": [
+      "svelte",
+      "frameworks",
+      "video"
+    ],
+    "coverImage": "https://media.discordapp.net/attachments/1180809368762060920/1182654755374383104/Blog_Image_6.png?ex=65857c12&is=65730712&hm=35aa346bcb44e72d3a4e819ae4ce77244d19e09f9966f6aee882ed4189f0232c&=&format=webp&quality=lossless",
     "intro": "Modern JavaScript frameworks are all about reactivity. Change your application's state, and the view updates automatically. But there's a catch — tracking state changes at runtime adds overhead that eats into your bundle size and performance budgets. In this talk, we'll discover an alternative approach: moving reactivity into the language itself. Your apps have never been smaller or faster than they're about to become.",
     "link": "https://www.youtube.com/watch?v=AdNJ3fydeao",
     "date": "22.04.2019"
   },
   {
     "title": "React.js: The Documentary",
-    "tags": ["react", "video"],
-    "coverImage": "https://i.ytimg.com/vi/8pDqJVdNa44/maxresdefault.jpg",
+    "tags": [
+      "react",
+      "video"
+    ],
+    "coverImage": "https://media.discordapp.net/attachments/1180809368762060920/1182654755030454392/Blog_Image.png?ex=65857c12&is=65730712&hm=3081e183400fdcab5c16c409faaceb27a8846016299633866b27797eb14b5d88&=&format=webp&quality=lossless",
     "intro": "React.js: The Documentary brings you the full story behind the early days of React, focusing on the dedicated group of developers who helped bring it to the world stage.",
     "link": "https://www.youtube.com/watch?v=8pDqJVdNa44",
     "date": "10.02.2023"
   },
   {
     "title": "10 Things I Regret About Node.js - Ryan Dahl - JSConf EU",
-    "tags": ["backend", "Node.js", "Deno", "video"],
-    "coverImage": "https://i.ytimg.com/vi/M3BM9TB-8yA/maxresdefault.jpg",
+    "tags": [
+      "backend",
+      "Node.js",
+      "Deno",
+      "video"
+    ],
+    "coverImage": "https://media.discordapp.net/attachments/1180809368762060920/1182654753407258624/Blog_Image_5.png?ex=65857c11&is=65730711&hm=aeac385065db8ae1aa7dd924d1658481b927bbfdc709451ae3e6dd7f36fbef87&=&format=webp&quality=lossless",
     "intro": "The creator of node.js talks about the flaws of his creation",
     "link": "https://www.youtube.com/watch?v=M3BM9TB-8yA",
     "date": "06.06.2018"
   },
   {
     "title": "Tauri - The Flutter killer?",
-    "tags": ["desktop", "mobile"],
-    "coverImage": "https://miro.medium.com/v2/resize:fit:1200/1*lwh-z5mrp7P3YMaQTwCkdA.png",
+    "tags": [
+      "desktop",
+      "mobile"
+    ],
+    "coverImage": "https://media.discordapp.net/attachments/1180809368762060920/1182654753776353350/Blog_Image_4.png?ex=65857c11&is=65730711&hm=c4d272802182c08dc784baabe023b5cc1e33574fd9722e8ba9febfd5e55336a9&=&format=webp&quality=lossless",
     "intro": "Tauri is an open-source framework for building cross-platform desktop applications using web technologies such as HTML, CSS, and JavaScript.",
     "link": "https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27",
     "date": "31.03.2023"

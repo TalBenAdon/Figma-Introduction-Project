@@ -4,10 +4,7 @@
     box-sizing: border-box;
 }
 
-.grid-wrapper {
-    max-width: 1400px;
-    margin: auto;
-}
+
 
 h2 {
     color: #495057;
@@ -19,6 +16,7 @@ h2 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
+
 
 
     justify-items: center;
