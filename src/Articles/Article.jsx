@@ -12,7 +12,7 @@ export default function Article(props) {
             <a href="" className='article-card-img'>
                 <img src={coverImage} alt="coverimg" />
                 <div className='card-tags'>
-                    {tags.map(tag => <div className='tag'>{tag}</div>)}
+                    {tags.map((tag, index) => <div className='tag' key={index}>{tag}</div>)}
 
                 </div>
             </a>
